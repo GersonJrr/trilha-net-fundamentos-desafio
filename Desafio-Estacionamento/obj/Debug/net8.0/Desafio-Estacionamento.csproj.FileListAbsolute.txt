@@ -1,0 +1,14 @@
+C:\Users\junio\Desktop\ExemploFundamentos\Desafio-Estacionamento\Desafio-Estacionamento\bin\Debug\net8.0\Desafio-Estacionamento.exe
+C:\Users\junio\Desktop\ExemploFundamentos\Desafio-Estacionamento\Desafio-Estacionamento\bin\Debug\net8.0\Desafio-Estacionamento.deps.json
+C:\Users\junio\Desktop\ExemploFundamentos\Desafio-Estacionamento\Desafio-Estacionamento\bin\Debug\net8.0\Desafio-Estacionamento.runtimeconfig.json
+C:\Users\junio\Desktop\ExemploFundamentos\Desafio-Estacionamento\Desafio-Estacionamento\bin\Debug\net8.0\Desafio-Estacionamento.dll
+C:\Users\junio\Desktop\ExemploFundamentos\Desafio-Estacionamento\Desafio-Estacionamento\bin\Debug\net8.0\Desafio-Estacionamento.pdb
+C:\Users\junio\Desktop\ExemploFundamentos\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net8.0\Desafio-Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\Desktop\ExemploFundamentos\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net8.0\Desafio-Estacionamento.AssemblyInfoInputs.cache
+C:\Users\junio\Desktop\ExemploFundamentos\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net8.0\Desafio-Estacionamento.AssemblyInfo.cs
+C:\Users\junio\Desktop\ExemploFundamentos\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net8.0\Desafio-Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\junio\Desktop\ExemploFundamentos\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net8.0\Desafio-Estacionamento.dll
+C:\Users\junio\Desktop\ExemploFundamentos\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net8.0\refint\Desafio-Estacionamento.dll
+C:\Users\junio\Desktop\ExemploFundamentos\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net8.0\Desafio-Estacionamento.pdb
+C:\Users\junio\Desktop\ExemploFundamentos\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net8.0\Desafio-Estacionamento.genruntimeconfig.cache
+C:\Users\junio\Desktop\ExemploFundamentos\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net8.0\ref\Desafio-Estacionamento.dll
