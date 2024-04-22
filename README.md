@@ -8,7 +8,8 @@ Você foi contratado para construir um sistema para um estacionamento, que será
 
 ## Proposta
 Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
-![Diagrama de classe estacionamento](diagrama_classe_estacionamento.png)
+![diagrama_classe_estacionamento](https://github.com/GersonJrr/trilha-net-fundamentos-desafio/assets/90159113/93a0f1a6-c110-4300-bcfb-5563f36889d5)
+
 
 A classe contém três variáveis, sendo:
 
